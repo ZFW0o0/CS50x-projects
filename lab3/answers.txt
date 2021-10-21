@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?:Running time is signifiantly lower when the list is sorted.
+
+sort2 uses: merge sort
+
+How do you know?: Running time is the lowest when the list is random and reversed.
+
+sort3 uses: selection sort
+
+How do you know?: Running time does not vary significantly whether the list is random,
+reversed or sorted.
