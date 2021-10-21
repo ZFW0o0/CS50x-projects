@@ -1,0 +1,18 @@
+This pseudocode describes the design of a programme that outputs the minimum number of coins to be dispensed to a customer when making a change
+
+prompt the user to entre an amount of dollar and make sure it is a non-negative real number
+
+convert the change from dollar to cent
+
+make a loop that keeps subtractng the largest possible coin from the change until no change is owe to customer
+
+print the number of coins used
+
+
+
+
+
+
+
+
+

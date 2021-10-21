@@ -1,0 +1,19 @@
+This txt file is the pseudocode of the programme to create a right-aligned pyramid in the Mario Bros game.
+
+prompt the user to input an integer between 1-8 inclusive for the height of the pyramid
+if the user types something that is not valid e.g. not between 1-8 or not an integer
+    reprompt
+until the user types an integer that is valid
+
+create a right aligned pyramid by using the for loop
+write 1 hash on the first line i.e. the tip of the pyramid 
+write 1 more hash on every next line.
+continue to print lines hashes until the height of the pyramid reaches the integer indicated.
+
+
+
+
+
+
+
+
